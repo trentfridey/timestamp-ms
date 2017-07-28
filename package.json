@@ -1,0 +1,19 @@
+{
+  "name": "fancy-bison-ms",
+  "description": "a timestamp ms",
+  "dependencies": {
+    "express":"^4.15.3"
+  },
+  "main": "serv.js",
+  "scripts": {
+    "start": "node serv.js"
+  },
+  "engines": {
+    "node": "4.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://trentfridey/timestamp-ms.git"
+  },
+  "license": "MIT"
+}
